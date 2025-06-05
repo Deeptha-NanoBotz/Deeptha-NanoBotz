@@ -1,4 +1,4 @@
-![logo](https://github.com/deeptharanaweera/deeptharanaweera/blob/main/1683009427444.png)
+![logo](https://github.com/Deeptha-NanoBotz/Deeptha-NanoBotz/blob/main/1683009427444.png)
 <h1 align="center">Hi 👋, I'm Deeptha Ranaweera</h1>
 <h3 align="left">I have 2 year experience about programming languages, software development, mobile app development and web development.</h3>
 
@@ -13,9 +13,9 @@
 </p>
 
 
-- 📫 How to reach me **deeptharanaweera26@gmail.com**
+- 📫 How to reach me **Deeptha-NanoBotz26@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://github.com/deeptharanaweera?tab=repositories](https://github.com/deeptharanaweera?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Deeptha-NanoBotz?tab=repositories](https://github.com/Deeptha-NanoBotz?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,11 +23,11 @@
 <a href="https://www.linkedin.com/in/deeptha-ranaweera-98b026203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deeptha ranaweera" height="30" width="40" /></a>
 <a href="https://www.facebook.com/deeptha.ranaweera?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deeptha ranaweera" height="30" width="40" /></a>
 <a href="https://instagram.com/deeptha_ranaweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deeptha_ranaweera" height="30" width="40" /></a>
-<a href="http://www.youtube.com/@deeptharanaweera6690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deeptha ranaweera" height="30" width="40" /></a>
+<a href="http://www.youtube.com/@Deeptha-NanoBotz6690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deeptha ranaweera" height="30" width="40" /></a>
 <a href="https://discord.gg/Deeptha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Deeptha" height="30" width="40" /></a>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeptharanaweera&show_icons=true&locale=en&layout=compact" alt="deeptharanaweera" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deeptha-NanoBotz&show_icons=true&locale=en&layout=compact" alt="Deeptha-NanoBotz" /></p>
 <h3 align="left">Book your appointment:</h3>
 <p align="left">
   <a href="https://www.fiverr.com/deeptharanaweer" target="_blank">
@@ -35,7 +35,7 @@
   </a>
 </p>
 <p align="left">
-  <a href="https://www.freelancer.com/u/deeptharanaweera?frm=deeptharanaweera&sb=t" target="_blank">
+  <a href="https://www.freelancer.com/u/Deeptha-NanoBotz?frm=Deeptha-NanoBotz&sb=t" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20me%20on-Freelancer-blue?style=for-the-badge&logo=freelancer" alt="Visit me on Freelancer" />
 
 
@@ -61,6 +61,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deeptharanaweera&show_icons=true&locale=en" alt="deeptha99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Deeptha-NanoBotz&show_icons=true&locale=en" alt="deeptha99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deeptharanaweera&" alt="deeptha99" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deeptha-NanoBotz&" alt="deeptha99" /></p>
