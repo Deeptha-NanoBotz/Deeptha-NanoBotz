@@ -1,10 +1,10 @@
-![logo](https://github.com/Deeptha-NanoBotz/Deeptha-NanoBotz/blob/main/1683009427444.png)
+![logo](https://github.com/Deeptha-NanoBotz/deeptharanaweera/blob/main/1683009427444.png)
 <h1 align="center">Hi 👋, I'm Deeptha Ranaweera</h1>
 <h3 align="left">I have 2 year experience about programming languages, software development, mobile app development and web development.</h3>
 
 <img align="right" alt="coding" width="500" src="https://flutter.gskinner.com/vignettes/assets/04-hotreload.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deeptha99&label=Profile%20views&color=0e75b6&style=flat" alt="deeptha99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Deeptha-NanoBotz&label=Profile%20views&color=0e75b6&style=flat" alt="Deeptha-NanoBotz" /> </p>
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/deeptha-ranaweera-98b026203" target="_blank">
@@ -13,7 +13,7 @@
 </p>
 
 
-- 📫 How to reach me **Deeptha-NanoBotz26@gmail.com**
+- 📫 How to reach me **deeptharanaweera26@gmail.com**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Deeptha-NanoBotz?tab=repositories](https://github.com/Deeptha-NanoBotz?tab=repositories)
 
